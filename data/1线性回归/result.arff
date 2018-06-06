@@ -1,0 +1,10 @@
+@relation a_predicted
+
+@attribute x numeric
+@attribute predictedy numeric
+@attribute y numeric
+
+@data
+6,12,12
+7,14,14
+8,16,15
